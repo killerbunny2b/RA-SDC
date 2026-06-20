@@ -1,3 +1,4 @@
+## Rapport d'Activités réalisés durant la période de stage au sein de Safe Digital Consulting
 
 - Dépannage pour la société Bus Bastiais, suite à la coupure intermittente de la box internet. Nous avons détecté un défaut électrique sur la ligne ADSL et avons signalé cela à Orange, qui est intervenu dans la journée.
 
